@@ -6,15 +6,15 @@ Welcome to the **Python Projects Collection** repository! This repository contai
 Here are some of the projects you'll find in this repository:
 
 1. **Games**
-   - Classic games like Snake, Tic-Tac-Toe, etc.
+   - Classic games like Pig, Snake, Tic-Tac-Toe, etc.
    - Console-based games with simple logic.
 
-2. **Utilities**
+3. **Utilities**
    - Random password generator
    - Basic calculator
    - Weather app (requires external API)
 
-3. **Fun Programs**
+4. **Fun Programs**
    - Quiz games
    - Number guessing games
    - Dice roll simulator
