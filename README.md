@@ -27,4 +27,4 @@ To run any project, simply clone the repository and execute the Python files. Ma
 - Python 3.x
 - (Optional) Some projects may require additional libraries. You can install them using:
   ```bash
-  pip install -r requirements.txt
+  pip install {whatever_library_or_package_name}
