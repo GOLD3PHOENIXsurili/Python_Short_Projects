@@ -10,7 +10,7 @@ Here are some of the projects you'll find in this repository:
    - Console-based games with simple logic.
 
 3. **Utilities**
-   - Random password generator
+   - Random password generator, QR-Code generator
    - Basic calculator
    - Weather app (requires external API)
 
@@ -28,3 +28,5 @@ To run any project, simply clone the repository and execute the Python files. Ma
 - (Optional) Some projects may require additional libraries. You can install them using:
   ```bash
   pip install {whatever_library_or_package_name}
+
+## This repository will be continuously updated in the future.
